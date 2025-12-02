@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "本気ボンバー！！",
+  "base_artist": "Berryz工房",
+  "createdAt": "2025-12-02T16:03:56.652132Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "本気ボンバー!!",
+      "artist": "alom",
+      "has_synced": false,
+      "path": "select/01_本気ボンバー!!_alom.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "本気ボンバー!!",
+      "artist": "berryzkobo",
+      "has_synced": true,
+      "path": "select/02_本気ボンバー!!_berryzkobo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "本気ボンバー！！ （第88話〜101話 ED)",
+      "artist": "Mami",
+      "has_synced": false,
+      "path": "select/03_本気ボンバー!!_(第88話〜101話_ED)_Mami.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "本気ボンバー!! (アニメエンディングVer.)",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/04_本気ボンバー!!_(アニメエンディングVer.)_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "本気ボンバー!!",
+      "artist": "Berryz工房",
+      "has_synced": false,
+      "path": "select/05_本気ボンバー!!_Berryz工房.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "本気ボンバー!!（アニメエンディングVer.）",
+      "artist": "Berryz工房",
+      "has_synced": false,
+      "path": "select/06_本気ボンバー!!(アニメエンディングVer.)_Berryz工房.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "本気ボンバー!!",
+      "artist": "Berryz工房",
+      "has_synced": false,
+      "path": "select/pl_01_本気ボンバー!!_Berryz工房.txt"
+    }
+  ]
+}
